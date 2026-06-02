@@ -1,0 +1,30 @@
+{
+  "identifier" : "aura.storekit",
+  "products" : [
+    {
+      "displayPrice" : "4.99",
+      "familyShareable" : false,
+      "internalID" : "AURA_PREMIUM_NON_CONSUMABLE",
+      "localizations" : [
+        {
+          "description" : "Unlock premium breathing resets, custom sessions, extra themes, and detailed local stats.",
+          "displayName" : "aura Premium",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.aura.premium",
+      "referenceName" : "aura Premium",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+    "_failTransactionsEnabled" : false,
+    "_locale" : "en_US",
+    "_storefront" : "USA"
+  },
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 4,
+    "minor" : 0
+  }
+}

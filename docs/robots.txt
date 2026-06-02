@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://hojunekim.github.io/aura/sitemap.xml
+Sitemap: https://hojune02.github.io/aura/sitemap.xml

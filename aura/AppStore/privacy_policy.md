@@ -12,5 +12,5 @@ Purchases are handled by Apple's StoreKit system. Apple may process purchase-rel
 
 aura is designed for focus and relaxation and is not medical advice.
 
-Privacy Policy URL: https://hojunekim.github.io/aura/privacy/
-Support URL: https://hojunekim.github.io/aura/support/
+Privacy Policy URL: https://hojune02.github.io/aura/privacy/
+Support URL: https://hojune02.github.io/aura/support/

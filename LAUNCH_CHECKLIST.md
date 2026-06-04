@@ -3,7 +3,9 @@
 - Generate `aura.xcodeproj` with XcodeGen.
 - Set the Apple Developer Team in Xcode.
 - Confirm bundle ID: `com.hojunekim.aura`.
-- Create the non-consumable product in App Store Connect: `com.aura.premium`.
+- Create and submit the non-consumable product in App Store Connect: `com.aura.premium`.
+- Upload `aura/AppStore/iap_review_screenshot.png` as the IAP App Review screenshot.
+- Attach `com.aura.premium` to the app version before submitting for review.
 - Attach `aura.storekit` to the debug scheme for local purchase testing.
 - Test free sessions on iPhone SE, standard iPhone, and large iPhone simulators.
 - Test premium purchase, restore, locked presets, custom pattern saving, and premium themes.

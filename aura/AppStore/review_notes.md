@@ -5,7 +5,7 @@ Thank you for reviewing aura.
 - The app is an original SwiftUI breathing reset app.
 - It does not copy another app's branding, assets, layout, code, screenshots, name, or metadata.
 - The app is useful without purchase: users can access the 60s Focus Reset, Box Breathing, basic stats, haptics, and core breathing sessions for free.
-- Premium is a one-time non-consumable unlock using StoreKit 2.
+- Premium is a one-time non-consumable unlock using StoreKit 2 and is submitted with this app version for review.
 - Premium product ID: `com.aura.premium`
 - The app uses local-only storage and does not collect personal data.
 - Privacy Policy: https://hojune02.github.io/aura/privacy/
